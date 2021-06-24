@@ -1,3 +1,4 @@
-# How this project was created
+# Storybook in examples. Beginner's guide
+![](./result.gif)
 
-[Link to Medium article](https://medium.com/litslink/storybook-in-examples-beginners-guide-6179cf83e1b6).
+[Link to Medium article with step-by-step description](https://medium.com/litslink/storybook-in-examples-beginners-guide-6179cf83e1b6).
